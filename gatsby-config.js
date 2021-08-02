@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Crispyland Security Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Chris Beland`,
+      summary: `.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Blog about blue team and securing all the things.`,
+    siteUrl: `crispylandsec.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `@crispylandsec`,
     },
   },
   plugins: [

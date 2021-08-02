@@ -6,7 +6,7 @@ module.exports = {
       summary: `.`,
     },
     description: `Blog about blue team and securing all the things.`,
-    siteUrl: `crispylandsec.com`,
+    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `@crispylandsec`,
     },

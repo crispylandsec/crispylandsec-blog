@@ -3,7 +3,7 @@ module.exports = {
     title: `Crispyland Security Blog`,
     author: {
       name: `Chris Beland`,
-      summary: `.`,
+      summary: `Blog about blue team and securing all the things.`,
     },
     description: `Blog about blue team and securing all the things.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,

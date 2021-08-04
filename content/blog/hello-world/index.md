@@ -1,7 +1,7 @@
 ---
-title: Hello World
+title: Post 1
 date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+description: "Keeping as an example post for how to structure future posts."
 ---
 
 This is my first post on my new fake blog! How exciting!

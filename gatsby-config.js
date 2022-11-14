@@ -8,7 +8,6 @@ module.exports = {
     description: `Blog about blue team and securing all the things.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `@crispylandsec`,
       mastodon: `@crispylandsec`
     },
   },

@@ -9,7 +9,7 @@ module.exports = {
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `@crispylandsec`,
-      mastodon: `https://infosec.exchange/@crispylandsec`
+      mastodon: `@crispylandsec`
     },
   },
   plugins: [
